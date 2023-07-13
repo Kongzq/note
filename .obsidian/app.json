@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "/",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "92e8f62461bb1389",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f7d655df894b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9864a0befde3314",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5050331bcb1660",
+    "type": "split",
+    "children": [
+      {
+        "id": "c07f366be1bc3444",
+        "type": "tabs",
+        "dimension": 76.1853448275862,
+        "children": [
+          {
+            "id": "6bb9edaa4e772da3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04b7f1b653d691c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59c6bce8b314e7f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f8d3cb26451fb67",
+        "type": "tabs",
+        "dimension": 23.814655172413794,
+        "children": [
+          {
+            "id": "5b596fea27cfbb89",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "3e7054d51f750e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c22a576be79f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "186c539de7b0ca0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52ac6fa277770cc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c48deb597b40c7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "246d6a2cfb3bfca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b9864a0befde3314",
+  "lastOpenFiles": [
+    "互联网/手机.md",
+    "生活/jjj.md",
+    "生活/健康.md",
+    "生活/其他.md",
+    "image/健康-1689227796034.jpeg",
+    "生活/电动车与油摩.md",
+    "生活/人身安全.md",
+    "互联网/笔记本电脑.md",
+    "image/电动车与油摩-1688046939489.jpeg",
+    "image/电动车与油摩-1688046896116.jpeg",
+    "image/电动车与油摩-1688046775147.jpeg",
+    "互联网/打字与输入法.md",
+    "互联网/鼠标与键盘.md",
+    "互联网/固态硬盘（SSD）.md",
+    "互联网/未命名.md",
+    "互联网/显示器.md",
+    "image/鼠标与键盘-1687250432289.jpeg",
+    "image/鼠标与键盘-1687250408691.jpeg",
+    "image/鼠标与键盘-1687247126141.jpeg",
+    "image/鼠标与键盘-1687246643870.jpeg",
+    "image/鼠标与键盘-1687178690458.jpeg",
+    "image/鼠标与键盘-1687178594127.jpeg",
+    "互联网/平板看 pdf.md",
+    "生活/自行车.md",
+    "生活/找工作.md",
+    "生活/拉杆箱.md",
+    "生活/运动.md",
+    "indexfiles/image020.jpg.md",
+    "indexfiles",
+    "互联网/动.md",
+    "互联网/深山.md",
+    "互联网/未命名 1.md",
+    "互联网/未命名 2.md",
+    "互联网/未命名 3.md",
+    "image/image",
+    "2023-06-14.md",
+    "未命名文件夹",
+    "固态硬盘.md",
+    "互联网",
+    "IT",
+    "生活",
+    "image"
+  ]
+}
